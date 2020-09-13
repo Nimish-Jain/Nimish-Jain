@@ -2,7 +2,7 @@
 
 - 🎓 Who am I? : : Computer Science Student'22 at HMRITM, IP University, Delhi
 
-- 🌱 I’m currently learning : : Flutter & Dart, Competetive Programming
+- 🌱 I’m currently learning : : React JS, Competetive Programming
 
 - 💬 Ask me about : : C++, Python, ML
 
