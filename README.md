@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently learning : : MERN Stack Development, Competetive Programming
 
-- 💬 Ask me about : :  Web Developement, C++, Python, ML.
+- 💬 Ask me about : :  Web Developement (MERN Stack), Data Structures & Algorithms
 
-- 📫 How to reach me : : Nimishjain00@gmail.com
+- 📫 How to reach me : : Nimishjain00@gmail.com | https://www.linkedin.com/in/nimishjain22
