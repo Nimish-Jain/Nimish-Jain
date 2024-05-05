@@ -1,9 +1,11 @@
 ### Nimish Jain
 
-- 🎓 Who am I? : : Computer Science Student'22 at HMRITM, IP University, Delhi
+- 🎓 Who am I? : : Fullstack Software Engineer @Ticketmaster India
 
-- 🌱 I’m currently learning : : MERN Stack Development, Competetive Programming
+- 💻 Experience : : 3+ Years as on 01/05/2024
 
-- 💬 Ask me about : :  Web Development (MERN Stack), Data Structures & Algorithms
+- 📚 Education : : B.Tech Computer Science, GGSIP University, Delhi, India
+
+- 💬 Ask me about : :  Fullstack Development (MERN Stack), Data Structures & Algorithms
 
 - 📫 How to reach me : : Nimishjain00@gmail.com | https://www.linkedin.com/in/nimishjain22
